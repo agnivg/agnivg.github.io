@@ -37,5 +37,3 @@ To view a live example, **[click here](https://agnivg.github.io/)**
 * [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
 
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
